@@ -23,7 +23,7 @@ for no. You will use these datasets to accomplish the following tasks.
     Random Forest Model.
 2. In the dataset directory there is a csv file with the actual list of the
     players who made the 2023-2024 Allstar game. Parse this csv file and 
-    evaluate the performance of your model using the pl. Your function should
+    evaluate the performance of your model. Your function should
     return a dictionary containing all the information in your classification
     report.
 
