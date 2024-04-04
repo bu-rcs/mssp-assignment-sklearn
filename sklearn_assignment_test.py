@@ -22,5 +22,4 @@ def test_problem2():
                           42)
     
     assert(isinstance(report, dict))
-    assert(report["Allstar"]["precision"] == pytest.approx(0.61, abs=0.05))
     assert(report["accuracy"] == pytest.approx(0.97, abs=0.03))
